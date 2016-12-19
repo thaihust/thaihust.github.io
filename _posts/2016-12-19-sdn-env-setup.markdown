@@ -14,9 +14,9 @@ tag:
 ### Install Java and OpenDaylight
 - Update system:
 
-    ```sh
-    sudo apt-get update && sudo apt-get dist-upgrade -y
-    ```
+  ```sh
+  sudo apt-get update && sudo apt-get dist-upgrade -y
+  ```
 
 - Install Java and configure environment variable (choose one of the following versions):
  - Open JDK:
@@ -76,6 +76,7 @@ tag:
     ```
 
 ### Install Open vSwitch
+
 - Configure kernel (prevent kernel from upgrading):
 
   ```sh
@@ -97,6 +98,7 @@ tag:
 Choose one of the following options:
 
 - #### Option 1: Mininet VM Installation
+
  - Download the [Mininet VM image](https://github.com/mininet/mininet/wiki/Mininet-VM-Images) (This VM includes Mininet itself, all OpenFlow binaries and tools pre-installed)
 
  - Install a virtualization system (Virtualbox or VMWare Workstation).
@@ -104,8 +106,9 @@ Choose one of the following options:
  - Import Mininet image to Virtualbox or VMWare Workstation and get started.
 
 - #### Option 2: Native Installation from Source
+
  - Execute the following commands:
- 
+
     ```sh
     sudo apt-get update
     sudo apt-get install git -y
