@@ -1,6 +1,10 @@
 ---
 title:  "SDN environment setup"
+<<<<<<< HEAD
 date:   2016-12-19 13:04:23
+=======
+date:   2016-12-19 14:04:23
+>>>>>>> master
 categories: [sdn]
 tags: [sdn]
 ---
