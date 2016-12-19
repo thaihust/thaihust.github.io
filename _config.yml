@@ -8,7 +8,7 @@ locale: en_US
 =======
 title: VN Networking Guides
 description: Networking Stuff
-url: 'https://thaihust.github.io/'
+url: 'https://thaihust.github.io'
 logo: halve.png                                       # Site logo
 locale: en_US
 baseurl: '/'
