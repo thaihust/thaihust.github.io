@@ -15,11 +15,7 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
-<<<<<<< HEAD
-  if (window.location.pathname !== '/jekyll-uno/' && window.location.pathname !== '/jekyll-uno/index.html') {
-=======
   if (window.location.pathname !== '/blog/' && window.location.pathname !== '/blog/index.html') {
->>>>>>> master
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
