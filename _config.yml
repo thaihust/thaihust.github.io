@@ -1,9 +1,10 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: http://taylantatli.github.io/Halve
+title: VN Networking Guides
+description: Networking Stuff
+url: 'https://thaihust.github.io/'
 logo: halve.png                                       # Site logo
 locale: en_US
+baseurl: '/'
 
 # Left Block Images
 background:
@@ -31,9 +32,9 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
+twitter:            thaihust
 #facebook:           username
-github:             username
+github:             thaihust
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
