@@ -46,10 +46,13 @@ twitter:            username
 github:             username
 =======
 twitter:            thaihust
-#facebook:           username
+facebook:           thaihust
 github:             thaihust
+<<<<<<< HEAD
 >>>>>>> master
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+=======
+>>>>>>> master
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -67,7 +70,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
