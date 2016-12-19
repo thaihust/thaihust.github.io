@@ -1,0 +1,39 @@
+# Site settings
+title: VN Networking guides
+description: 'Networking Stuff'
+url: 'https://thaihust.github.io/'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Thai Pham'
+  email: thaiph.hust@gmail.com
+  twitter_username: thaihust
+  facebook_username: thaihust
+  github_username:  thaihust
+  linkedin_username:  thaihust
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
