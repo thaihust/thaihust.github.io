@@ -1,7 +1,7 @@
 # Site
 title: VN Networking Guides
 description: Networking Stuff
-url: 'http://127.0.0.1:4000'
+url: 'https://thaihust.github.io'
 logo: halve.png                                       # Site logo
 locale: en_US
 baseurl: '/'
