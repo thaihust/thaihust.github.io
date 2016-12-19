@@ -10,6 +10,7 @@ tag:
 ---
 
 *The following environment setup requires fresh Ubuntu 14.04.1*
+
 ### Install Java and OpenDaylight
 - Update system:
 
@@ -19,6 +20,7 @@ tag:
 
 - Install Java and configure environment variable (choose one of the following versions):
  - Open JDK:
+
     ```sh
     sudo apt-get update
     sudo apt-get install openjdk-7-jdk
@@ -29,6 +31,7 @@ tag:
     ```
 
  - Java Oracle
+
     ```sh
     # add repository
     sudo apt-get install python-software-properties -y
@@ -67,12 +70,14 @@ tag:
     <img src="http://i.imgur.com/woPrDLN.png">
 
 - On the OpenDaylight console, install basic features:
+
     ```sh
     feature:install odl-restconf odl-l2switch-switch odl-mdsal-apidocs odl-dlux-all
     ```
 
 ### Install Open vSwitch
 - Configure kernel (prevent kernel from upgrading):
+
   ```sh
   wget -c https://raw.githubusercontent.com/thaihust/sdn-course-material/master/env-setup/kernel-cfg.sh
   chmod +x kernel-cfg.sh
@@ -100,7 +105,7 @@ Choose one of the following options:
 
 - #### Option 2: Native Installation from Source
  - Execute the following commands:
-
+ 
     ```sh
     sudo apt-get update
     sudo apt-get install git -y
