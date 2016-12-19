@@ -3,11 +3,19 @@
   <channel>
     <title>VN Networking guides</title>
     <description>Networking Stuff</description>
+<<<<<<< HEAD
     <link>https://thaihust.github.io//blog//</link>
     <atom:link href="https://thaihust.github.io//blog//feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 19 Dec 2016 14:19:49 +0700</pubDate>
     <lastBuildDate>Mon, 19 Dec 2016 14:19:49 +0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+=======
+    <link>https://thaihust.github.io///</link>
+    <atom:link href="https://thaihust.github.io///feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 19 Dec 2016 14:30:06 +0700</pubDate>
+    <lastBuildDate>Mon, 19 Dec 2016 14:30:06 +0700</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+>>>>>>> master
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -29,8 +37,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 22:04:23 +0700</pubDate>
-        <link>https://thaihust.github.io//blog//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">https://thaihust.github.io//blog//2016/welcome-to-jekyll/</guid>
+        <link>https://thaihust.github.io///2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://thaihust.github.io///2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
