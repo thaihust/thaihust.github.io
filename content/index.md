@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: z$$
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+```
+Z/$$
+BORN ****/**/**
+BLOOD TYPE *
+T.E.S.S
+MERCENARY TROOPS/ B/5
+```
