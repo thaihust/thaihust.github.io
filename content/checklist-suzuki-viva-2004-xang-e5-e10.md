@@ -167,4 +167,114 @@ description: "Danh sách kiểm tra và thay thế phụ tùng cho Suzuki Viva 2
 
 *Bên trái là mặt cắt bên trong bộ chế hòa khí: B5 (Phao xăng) là cục nổi hình bầu dục, B6 (Kim 3 cạnh) là cây kim đóng mở lỗ xăng vào theo mức phao. Bên phải là bình xăng nhìn từ ngoài: B7 (Nắp bình) gồm cả gioăng nắp và lỗ thông hơi, B8 (Lọc xăng phụ) gắn trên đường ống nếu chưa có, B9 (kiểm tra gỉ sét bên trong bình) — chỉ súc rửa, không thay bình.*
 
+### Phụ lục 3 — Kinh nghiệm mua phụ tùng (case study)
+*Phần này ghi lại quá trình đặt hàng thực tế từ đại lý Suzuki Hải Hoàng Phát (hpsuzuki.net) — tham khảo cho lần sau hoặc cho người dùng Viva khác cùng cảnh ngộ.*
+
+**Phụ tùng đã đặt (Suzuki Hải Hoàng Phát — chính hãng, có VAT)**
+
+*Tổng đơn 623.700đ. Liên hệ Mr. Phát — Zalo/Hotline 0945.675.425. Bảo hành 1 đổi 1, ship Vĩnh Long → Hà Nội \~2-3 ngày.*
+
+|         |                                                                              |                   |                |
+| ------- | ---------------------------------------------------------------------------- | ----------------- | -------------- |
+| **STT** | **Tên phụ tùng (theo hóa đơn shop)**                                         | **Đơn giá (VNĐ)** | **Thành tiền** |
+| 1       | Lọc xăng ống điếu — Đa Dụng                                                  | 11.000            | 11.000         |
+| 2       | Lọc xăng — Đa Dụng (mua dư — thực tế chỉ cần 1 loại)                         | 25.000            | 25.000         |
+| 3       | Ống xăng Zin 45cm — Đa Dụng                                                  | 36.000            | 36.000         |
+| 4       | Nắp bình xăng lớn — Suzuki Đa Dụng                                           | 66.000            | 66.000         |
+| 5       | Bông Tu BXC — Đa Dụng (= kim 3 cạnh, mục B6)                                 | 90.000            | 90.000         |
+| 6       | Van Khóa Xăng Tự Động — 3 chân — Viva 09G, Smash, Revo, Shogun, Xbike, Axelo | 256.000           | 256.000        |
+| 7       | Combo Sin Bình Xăng Con — Viva (mã COMBOSINBXCVIVA)                          | 110.000           | 110.000        |
+|         | **Tổng tiền hàng**                                                           |                   | **594.000**    |
+|         | VAT 5%                                                                       |                   | 29.700         |
+|         | **TỔNG CỘNG**                                                                |                   | **623.700**    |
+
+**5 bài học quan trọng từ lần mua này**
+
+**1. PHẢI tự kiểm tra trên xe trước khi đặt phụ tùng có biến thể**
+
+Ban đầu một số nguồn online nói Viva 110 dùng khóa xăng "4 chân". Nhưng kiểm tra thực tế xe (variant Viva 09G) thì khóa xăng là loại "3 chân" — dùng chung nhóm với Smash, Revo, Shogun, Xbike, Axelo. Suzuki có nhiều phiên bản Viva 110 theo năm/lô sản xuất.
+
+→ Trước khi đặt khóa xăng (và các phụ tùng có biến thể), ra tiệm tháo ra ĐẾM số "chân" (đầu nối kim loại) hoặc chụp hình thật gửi shop xác nhận.
+
+**2. Không phải mọi phụ tùng đều bán lẻ**
+
+Phao xăng (mục B5) tại hpsuzuki KHÔNG bán lẻ — chỉ bán nguyên cụm BXC giá 2.737.000đ. Cách xử lý:
+
+  - Bỏ qua như mục này — chỉ thay khi tiệm tháo BXC ra và xác nhận phao xăng cũ bị thấm xăng (chìm xuống)
+
+  - Nếu cần thay, tìm trên group Facebook "Hội phụ tùng Suzuki Viva" — đồ zin tháo xe cũ, giá rẻ
+
+  - Hoặc đặt từ shop nhỏ trên Shopee với keyword "phao xăng Suzuki Viva 110"
+
+**3. Phụ tùng "Đa Dụng" KHÁC phụ tùng "zin theo xe"**
+
+Trên hóa đơn nhiều món ghi "Đa Dụng" (universal) — như Lọc xăng, Ống xăng Zin, Bông Tu BXC, Nắp bình xăng. Đây là phụ tùng phổ thông sản xuất chuẩn cho nhiều dòng xe.
+
+Quan trọng: dù là "Đa Dụng", nếu mua từ kênh chính hãng Suzuki thì chất lượng vẫn đảm bảo. Lý do shop dùng "Đa Dụng" thường là: hết hàng zin Viva (do đời 2004 đã lâu), HOẶC đó vốn là chi tiết tiêu chuẩn dùng chung được (như lọc xăng, ống xăng).
+
+**4. Mua chính hãng có VAT — dấu hiệu shop hợp pháp**
+
+Hpsuzuki xuất hóa đơn VAT 5% kèm theo. Đây là dấu hiệu đại lý hợp pháp, có pháp nhân, có thể yêu cầu hóa đơn đỏ nếu cần xuất công ty. Khi gặp shop chỉ chuyển khoản cá nhân, không xuất hóa đơn — nên cẩn trọng.
+
+**5. Lọc xăng: chỉ cần 1 loại**
+
+Trong đơn này có 2 loại lọc xăng (Lọc ống điếu 11k + Lọc đa dụng 25k) — thực tế chỉ cần 1. Khi mang phụ tùng ra tiệm, hỏi thợ loại nào phù hợp với xe và CHỈ GẮN 1 LOẠI.
+
+  - Lọc xăng ống điếu = lọc inline đơn giản, gắn giữa đoạn ống dẫn xăng
+
+  - Lọc xăng đa dụng (có vỏ) = lọc có vỏ kim loại/nhựa cứng, hiệu quả cao hơn
+
+Lọc còn dư có thể giữ lại làm phụ tùng dự phòng.
+
+**Kinh nghiệm tham khảo từ shop (chia sẻ cá nhân)**
+
+Một yếu tố đã giúp mình tự tin chọn khóa xăng zin Suzuki (256k) thay vì Centa (\~150k) là phản hồi của chính shop hpsuzuki:
+
+> *Shop đã chạy thử các phụ tùng cùng loại với xăng E10 trong khoảng 1 tháng, đi được \~200km và không thấy dấu hiệu ảnh hưởng (rò rỉ, biến dạng, mòn bất thường).*
+
+**Cách hiểu đúng về thông tin này:**
+
+  - Đây là CHIA SẺ CÁ NHÂN từ shop, không phải kiểm nghiệm chính thức của Suzuki hay tổ chức kỹ thuật độc lập.
+
+  - Mẫu thử 200km / 1 tháng là tín hiệu tích cực, nhưng chưa đủ dài để đánh giá ảnh hưởng dài hạn của ethanol (cao su có thể phồng/lão hóa từ từ sau 6-12 tháng).
+
+  - Phù hợp coi như "không có cảnh báo đỏ" — kết hợp với chính sách bảo hành 1 đổi 1 của shop, đủ cơ sở để chọn zin.
+
+  - KHÔNG nên dựa duy nhất vào thông tin này để khẳng định "đồ zin chịu E10 vô thời hạn" với người khác.
+
+*Trong trường hợp của xe đời 22 năm tuổi, việc đầu tư zin (đắt hơn \~100k) đổi lấy độ bền dài hạn và giảm rủi ro phải thay lại sớm là một quyết định hợp lý — đặc biệt khi shop sẵn sàng bảo hành.*
+
+**So sánh chi phí ước tính ban đầu vs thực tế**
+
+*Để bạn (hoặc người khác) có chuẩn so sánh cho lần sau:*
+
+|                           |                      |                    |                    |
+| ------------------------- | -------------------- | ------------------ | ------------------ |
+| **Hạng mục**              | **Ước tính ban đầu** | **Thực tế đã mua** | **Ghi chú**        |
+| Ống dẫn xăng              | 30k – 80k            | 36.000             | Đúng               |
+| Khóa xăng                 | 60k – 150k           | 256.000            | Cao hơn (chọn zin) |
+| Bộ gioăng BXC (Combo Sin) | 80k – 200k           | 110.000            | Đúng               |
+| Lọc xăng                  | 20k – 50k            | 36.000             | Mua dư 1 cái       |
+| Nắp bình xăng             | 80k – 200k           | 66.000             | Tốt hơn dự kiến    |
+| Kim 3 cạnh (Bông Tu)      | 30k – 80k            | 90.000             | Cao hơn chút       |
+| Phao xăng                 | 50k – 100k           | Không mua          | Shop không lẻ      |
+| VAT 5%                    | —                    | 29.700             | Chính hãng         |
+| **TỔNG PHỤ TÙNG**         | **300k – 760k**      | **623.700**        |                    |
+
+*Thực tế nằm gần đầu trên của ước tính vì chọn khóa xăng zin Suzuki (256k) thay vì Centa (\~150k). Quyết định chọn zin dựa trên 2 cơ sở: (1) độ bền dài hạn so với chênh lệch giá \~100k là chấp nhận được cho xe 22 năm tuổi, (2) tham khảo chia sẻ cá nhân của shop về việc đã test phụ tùng với E10 \~200km không thấy vấn đề (xem chi tiết ở phần trên). Nếu ưu tiên giá rẻ, chọn Centa thì tổng giảm còn \~470-500k.*
+
+**Các bước tiếp theo**
+
+  - Nhận hàng tại Hà Nội (ship Vĩnh Long → HN \~2-3 ngày)
+
+  - Mang phụ tùng + xe đến tiệm tin cậy ở Hà Nội (tham khảo Phần G — Địa chỉ tham khảo)
+
+  - Yêu cầu thợ thay theo Phần A. CHỈ thay phao xăng nếu tiệm tháo BXC ra và xác nhận hỏng — nếu hỏng thì đặt riêng sau từ kênh Facebook
+
+  - Chỉ gắn 1 loại lọc xăng (loại nào do thợ tư vấn), giữ loại còn lại làm dự phòng
+
+  - Yêu cầu thợ in/ghi rõ những gì đã thay vào biên nhận để có hồ sơ bảo dưỡng
+
+  - Công thợ dự kiến: 150k – 300k. Tổng cuối: 800k – 1.000k
+
 *Tài liệu này được tổng hợp từ thông tin VAMM, các báo Tuổi Trẻ, Dân Trí, VnExpress và cộng đồng người dùng Suzuki Viva. Là tài liệu tham khảo, bạn nên xác minh với thợ/đại lý trước khi thực hiện.*
